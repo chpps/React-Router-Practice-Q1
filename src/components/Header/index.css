@@ -1,0 +1,50 @@
+/* Write your CSS code here */
+/* src/components/Header/index.css */
+.header {
+  padding: 15px;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 35px;
+  margin-right: 10px;
+}
+
+.app-name {
+  color: #6d396b;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-items {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+
+}
+
+.nav-item {
+  padding: 0;
+}
+
+.nav-link {
+  color: #6d396b;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}

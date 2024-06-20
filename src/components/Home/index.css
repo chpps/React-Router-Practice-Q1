@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.home-container {
+  text-align: center;
+}
+
+.home-image {
+  margin-top: 50px;
+  width: 20%;
+  height: 30%;
+  margin-bottom: 20px;
+}
+
+.home-heading {
+  color: #551e53;
+  font-size: 2rem;
+}

@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.not-found-container {
+  text-align: center;
+}
+
+.not-found-image {
+  margin-top: 50px;
+  width: 20%;
+  height: 30%;
+  margin-bottom: 20px;
+}
+
+.not-found-heading {
+  color: #551e53;
+  font-size: 2rem;
+}

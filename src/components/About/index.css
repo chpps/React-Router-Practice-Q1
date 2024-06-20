@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.about-container {
+  text-align: center;
+}
+
+.about-image {
+  margin-top: 50px;
+  width: 20%;
+  height: 30%;
+  margin-bottom: 20px;
+}
+
+.about-heading {
+  color: #551e53;
+  font-size: 2rem;
+}
+.about-text {
+  color: #551e53;
+  font-size: 2rem;
+}
